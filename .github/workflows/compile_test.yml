@@ -8,7 +8,6 @@ jobs:
     strategy:
       matrix:
         board:
-          - fqbn: Dasduino_Boards:megaavr:lite
           - fqbn: Dasduino_Boards:esp8266:connect
           - fqbn: Dasduino_Boards:esp32:connectplus
           - fqbn: Dasduino_Boards:esp32:lora32
@@ -29,23 +28,21 @@ jobs:
           platforms: |
             - name: "arduino:avr"
 
-            - source-url: https://github.com/SolderedElectronics/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
+            - source-url: https://github.com/e-radionicacom/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
               name: "Dasduino_Boards:avr"
 
-            - source-url: https://github.com/SolderedElectronics/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
+            - source-url: https://github.com/e-radionicacom/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
               name: "Dasduino_Boards:esp32"
 
-            - source-url: https://github.com/SolderedElectronics/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
+            - source-url: https://github.com/e-radionicacom/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
               name: "Dasduino_Boards:esp8266"
 
-            - source-url: https://github.com/SolderedElectronics/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
-              name: "Dasduino_Boards:megaavr"
-
-            - source-url: https://github.com/SolderedElectronics/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
+            - source-url: https://github.com/e-radionicacom/Dasduino-Board-Definitions-for-Arduino-IDE/raw/master/package_Dasduino_Boards_index.json
               name: "Dasduino_Boards:stm32"
 
           fqbn: ${{ matrix.board.fqbn }}
           libraries: |
             - source-path: ./
+            - name: Adafruit GFX Library
           sketch-paths: |
             - ./examples/
