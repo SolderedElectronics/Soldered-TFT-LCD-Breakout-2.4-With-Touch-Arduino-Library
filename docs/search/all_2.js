@@ -1,4 +1,8 @@
 var searchData=
 [
-  ['defaultaddress_0',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]]
+  ['c_0',['c',['../struct_c_a_l___m_a_t_r_i_x.html#ad0156dc0cc44baa5703f162672dbda14',1,'CAL_MATRIX']]],
+  ['cal_5fmatrix_1',['CAL_MATRIX',['../struct_c_a_l___m_a_t_r_i_x.html',1,'']]],
+  ['cal_5fpoint_2',['CAL_POINT',['../struct_c_a_l___p_o_i_n_t.html',1,'']]],
+  ['calibrate_3',['calibrate',['../class_t_f_t_touch.html#af2f2930343237e725414473e29730f91',1,'TFTTouch']]],
+  ['cs_5fpin_4',['CS_PIN',['../class_a_d_s7846.html#a24aed6ffd513a0a7b74b1b88d8596ff2',1,'ADS7846']]]
 ];
