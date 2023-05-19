@@ -38,7 +38,7 @@ void TFTTouch::calibrate(int _xMin, int _xMax, int _yMin, int _yMax)
 
 /**
  *  @brief      Get X coordinate of the touched point on the screen.
- * 
+ *
  *  @returns    int of the X coordinate of the touched point
  *
  */
@@ -49,7 +49,7 @@ int TFTTouch::getX()
 
 /**
  *  @brief      Get Y coordinate of the touched point on the screen.
- * 
+ *
  *  @returns    int of the Y coordinate of the touched point
  *
  */
