@@ -263,6 +263,7 @@ void ADS7846::rd_data(void)
 
     // get pressure
     CS_ENABLE();
+    SPI.beginTransaction(SPISettings(2000000ULL, MSBFIRST, SPI_MODE0));
     wr_spi(CMD_START | CMD_8BIT | CMD_DIFF | CMD_Z1_POS);
     a1 = rd_spi() & 0x7F;
     wr_spi(CMD_START | CMD_8BIT | CMD_DIFF | CMD_Z2_POS);
@@ -317,6 +318,8 @@ void ADS7846::rd_data(void)
     SPCR = spcr;
     SPSR = spsr;
 #endif
+
+    SPI.endTransaction();
 
     return;
 }
