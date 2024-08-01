@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['pressure_0',['pressure',['../class_a_d_s7846.html#a5576bf697f2e4172a854dd68c5a42aa0',1,'ADS7846']]]
+  ['hardware_20design_0',['Hardware design',['../index.html#autotoc_md2',1,'']]],
+  ['have_20fun_1',['Have fun!',['../index.html#autotoc_md8',1,'']]]
 ];

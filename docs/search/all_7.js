@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['initcmd_0',['initcmd',['../_adafruit___i_l_i9341_8cpp.html#a912cfdb70612a89a4eec751f8283515b',1,'Adafruit_ILI9341.cpp']]],
-  ['invertdisplay_1',['invertDisplay',['../class_adafruit___i_l_i9341.html#aeebe7e19bba4eea54f72223af0b580c2',1,'Adafruit_ILI9341']]]
+  ['f_0',['f',['../struct_c_a_l___m_a_t_r_i_x.html#ab1948181e2c8bcc09fd07f402bd5457a',1,'CAL_MATRIX']]],
+  ['fun_1',['Have fun!',['../index.html#autotoc_md8',1,'']]]
 ];

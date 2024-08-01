@@ -1,11 +1,10 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../src_2libs_2_adafruit___i_l_i9341_2_r_e_a_d_m_e_8md.html',1,'']]],
-  ['scrollto_1',['scrollTo',['../class_adafruit___i_l_i9341.html#aaddeafbfb621731424d6d2f354175313',1,'Adafruit_ILI9341']]],
-  ['service_2',['service',['../class_a_d_s7846.html#aa6e2ea615c3db769021e66098923dd10',1,'ADS7846']]],
-  ['setaddrwindow_3',['setAddrWindow',['../class_adafruit___i_l_i9341.html#a5f0f28fd334e14e544a84319838faac1',1,'Adafruit_ILI9341']]],
-  ['setcalibration_4',['setCalibration',['../class_a_d_s7846.html#ac5794d8c3db12ba754ab31c5eb172011',1,'ADS7846']]],
-  ['setorientation_5',['setOrientation',['../class_a_d_s7846.html#a190b8bd168fd52d73b95fb80a0275928',1,'ADS7846']]],
-  ['setrotation_6',['setRotation',['../class_adafruit___i_l_i9341.html#ae82ff4003dba45826284ff16791a647c',1,'Adafruit_ILI9341::setRotation()'],['../class_a_d_s7846.html#a69f726a1344e23752851c692231dad29',1,'ADS7846::setRotation()']]],
-  ['setscrollmargins_7',['setScrollMargins',['../class_adafruit___i_l_i9341.html#aa8900da165b142b9b59c8caef72d2eef',1,'Adafruit_ILI9341']]]
+  ['lcd_20breakout_202_204_20with_20touch_20arduino_20library_0',['TFT LCD Breakout 2.4&quot; With Touch Arduino library',['../index.html',1,'']]],
+  ['lcd_5forientation_1',['lcd_orientation',['../class_a_d_s7846.html#a85baf2b1a41550823f0f54d67aaba50b',1,'ADS7846']]],
+  ['lcd_5fx_2',['lcd_x',['../class_a_d_s7846.html#ab9db9c7889e08ac98a423278c304114c',1,'ADS7846']]],
+  ['lcd_5fy_3',['lcd_y',['../class_a_d_s7846.html#a260a501f74ddaef82239606064f829e8',1,'ADS7846']]],
+  ['library_4',['TFT LCD Breakout 2.4&quot; With Touch Arduino library',['../index.html',1,'']]],
+  ['license_5',['License',['..//github/workspace/gh-pages/src/libs/Adafruit_ILI9341/Adafruit_ILI9341.cpp#license',1,'']]],
+  ['license_6',['Open-source license',['../index.html#autotoc_md7',1,'']]]
 ];

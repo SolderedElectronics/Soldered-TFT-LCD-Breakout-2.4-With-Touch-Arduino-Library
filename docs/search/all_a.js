@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['rd_5fdata_0',['rd_data',['../class_a_d_s7846.html#a410879b1a7ba2a24b9dea4893bd01505',1,'ADS7846']]],
-  ['rd_5fspi_1',['rd_spi',['../class_a_d_s7846.html#ad67b387166733904ae5c854fcaae61a8',1,'ADS7846']]],
-  ['readcommand8_2',['readcommand8',['../class_adafruit___i_l_i9341.html#a0393b030d3b20ed8ef65288cd6eba7b5',1,'Adafruit_ILI9341']]],
-  ['readme_2emd_3',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]]
+  ['initcmd_0',['initcmd',['../_adafruit___i_l_i9341_8cpp.html#a912cfdb70612a89a4eec751f8283515b',1,'Adafruit_ILI9341.cpp']]],
+  ['introduction_1',['Introduction',['..//github/workspace/gh-pages/src/libs/Adafruit_ILI9341/Adafruit_ILI9341.cpp#intro_sec',1,'']]],
+  ['invertdisplay_2',['invertDisplay',['../class_adafruit___i_l_i9341.html#aeebe7e19bba4eea54f72223af0b580c2',1,'Adafruit_ILI9341']]]
 ];

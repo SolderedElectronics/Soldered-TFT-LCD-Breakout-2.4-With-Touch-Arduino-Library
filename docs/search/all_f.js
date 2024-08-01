@@ -1,6 +1,14 @@
 var searchData=
 [
-  ['y_0',['y',['../struct_c_a_l___p_o_i_n_t.html#a491200c1b7b7a6da9306393ac51f7fb3',1,'CAL_POINT']]],
-  ['ymax_1',['yMax',['../class_t_f_t_touch.html#a68418b999f6617d2eeeed8ea35474afa',1,'TFTTouch']]],
-  ['ymin_2',['yMin',['../class_t_f_t_touch.html#a44b537af2751ee5b3da51ea39c8caeb2',1,'TFTTouch']]]
+  ['scrollto_0',['scrollTo',['../class_adafruit___i_l_i9341.html#aaddeafbfb621731424d6d2f354175313',1,'Adafruit_ILI9341']]],
+  ['service_1',['service',['../class_a_d_s7846.html#aa6e2ea615c3db769021e66098923dd10',1,'ADS7846']]],
+  ['setaddrwindow_2',['setAddrWindow',['../class_adafruit___i_l_i9341.html#a5f0f28fd334e14e544a84319838faac1',1,'Adafruit_ILI9341']]],
+  ['setcalibration_3',['setCalibration',['../class_a_d_s7846.html#ac5794d8c3db12ba754ab31c5eb172011',1,'ADS7846']]],
+  ['setorientation_4',['setOrientation',['../class_a_d_s7846.html#a190b8bd168fd52d73b95fb80a0275928',1,'ADS7846']]],
+  ['setrotation_5',['setRotation',['../class_adafruit___i_l_i9341.html#ae82ff4003dba45826284ff16791a647c',1,'Adafruit_ILI9341::setRotation()'],['../class_a_d_s7846.html#a69f726a1344e23752851c692231dad29',1,'ADS7846::setRotation()']]],
+  ['setscrollmargins_6',['setScrollMargins',['../class_adafruit___i_l_i9341.html#aa8900da165b142b9b59c8caef72d2eef',1,'Adafruit_ILI9341']]],
+  ['soldered_7',['About Soldered',['../index.html#autotoc_md5',1,'']]],
+  ['source_8',['Original source',['../index.html#autotoc_md6',1,'']]],
+  ['source_20license_9',['Open-source license',['../index.html#autotoc_md7',1,'']]],
+  ['src_2flibs_2fadafruit_5fili9341_2freadme_2emd_10',['README.md',['../src_2libs_2_adafruit___i_l_i9341_2_r_e_a_d_m_e_8md.html',1,'']]]
 ];

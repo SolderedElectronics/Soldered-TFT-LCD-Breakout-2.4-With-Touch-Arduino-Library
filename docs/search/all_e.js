@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['x_0',['x',['../struct_c_a_l___p_o_i_n_t.html#a0edfa915d8dea43b0412dbe6169a6512',1,'CAL_POINT']]],
-  ['xmax_1',['xMax',['../class_t_f_t_touch.html#ab7b1fdcd9459148b4d759775830cc7c5',1,'TFTTouch']]],
-  ['xmin_2',['xMin',['../class_t_f_t_touch.html#ab4b019f67bd7adafdad98f3edb7bfc24',1,'TFTTouch']]]
+  ['rd_5fdata_0',['rd_data',['../class_a_d_s7846.html#a410879b1a7ba2a24b9dea4893bd01505',1,'ADS7846']]],
+  ['rd_5fspi_1',['rd_spi',['../class_a_d_s7846.html#ad67b387166733904ae5c854fcaae61a8',1,'ADS7846']]],
+  ['readcommand8_2',['readcommand8',['../class_adafruit___i_l_i9341.html#a0393b030d3b20ed8ef65288cd6eba7b5',1,'Adafruit_ILI9341']]],
+  ['readme_2emd_3',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['repository_20contents_4',['Repository Contents',['../index.html#autotoc_md1',1,'']]]
 ];
