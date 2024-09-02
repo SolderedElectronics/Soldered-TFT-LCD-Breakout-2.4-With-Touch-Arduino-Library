@@ -28,6 +28,11 @@
 #define TFT_CSL   6
 #define TFT_RST -1 // If not used, use -1
 
+// Reccomended pins for DC, CS, and Reset for Connect/ConnectPlus
+// #define TFT_DC    5
+// #define TFT_CSL   4
+// #define TFT_RST 16 // If not used, use -1
+
 /**
  * Connecting diagram:
  *

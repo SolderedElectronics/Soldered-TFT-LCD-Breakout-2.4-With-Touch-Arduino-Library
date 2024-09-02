@@ -30,6 +30,11 @@
 #define TFT_CSL 6
 #define TFT_RST -1 // If not used, use -1
 
+// Reccomended pins for DC, CS, and Reset for Connect/ConnectPlus
+// #define TFT_DC    5
+// #define TFT_CSL   4
+// #define TFT_RST 16 // If not used, use -1
+
 /**
  * Connecting diagram:
  *
@@ -39,8 +44,8 @@
  * DC-------------------------->TFT_DC, set by user
  * BL-------------------------->VCC
  * CLK------------------------->D13/IO14/IO14
- * D0-------------------------->D11/IO13/IO13
- * DI-------------------------->D12/IO12/IO12
+ * D0-------------------------->D11/IO12/IO12 // This isn't nescessary to connect
+ * DI-------------------------->D12/IO13/IO13
  * CSL------------------------->TFT_CSL, set by user
  * CST------------------------->D10/IO15/IO15
  * RST------------------------->TFT_RST, set by user, optional
